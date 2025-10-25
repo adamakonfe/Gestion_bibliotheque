@@ -1,0 +1,16 @@
+/home/damso/NetBeansProjects/Gestion_bibliotheque/src/main/java/com/example/bibliotheque/controller/AdherentController.java
+/home/damso/NetBeansProjects/Gestion_bibliotheque/src/main/java/com/example/bibliotheque/view/AdherentPanel.java
+/home/damso/NetBeansProjects/Gestion_bibliotheque/src/main/java/com/example/bibliotheque/view/EmpruntPanel.java
+/home/damso/NetBeansProjects/Gestion_bibliotheque/src/main/java/com/example/bibliotheque/view/LoginDialog.java
+/home/damso/NetBeansProjects/Gestion_bibliotheque/src/main/java/com/example/bibliotheque/model/Adherent.java
+/home/damso/NetBeansProjects/Gestion_bibliotheque/src/main/java/com/example/bibliotheque/DBConnection.java
+/home/damso/NetBeansProjects/Gestion_bibliotheque/src/main/java/com/example/bibliotheque/model/Livre.java
+/home/damso/NetBeansProjects/Gestion_bibliotheque/src/main/java/com/example/bibliotheque/controller/LivreController.java
+/home/damso/NetBeansProjects/Gestion_bibliotheque/src/main/java/com/example/bibliotheque/controller/EmpruntController.java
+/home/damso/NetBeansProjects/Gestion_bibliotheque/src/main/java/com/example/bibliotheque/model/Emprunt.java
+/home/damso/NetBeansProjects/Gestion_bibliotheque/src/main/java/com/example/bibliotheque/view/LivrePanel.java
+/home/damso/NetBeansProjects/Gestion_bibliotheque/src/main/java/com/example/bibliotheque/Main.java
+/home/damso/NetBeansProjects/Gestion_bibliotheque/src/main/java/com/example/bibliotheque/model/EmpruntDAO.java
+/home/damso/NetBeansProjects/Gestion_bibliotheque/src/main/java/com/example/bibliotheque/model/LivreDAO.java
+/home/damso/NetBeansProjects/Gestion_bibliotheque/src/main/java/com/example/bibliotheque/model/AdherentDAO.java
+/home/damso/NetBeansProjects/Gestion_bibliotheque/src/main/java/com/example/bibliotheque/controller/LoginController.java
